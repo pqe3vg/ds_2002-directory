@@ -1,1 +1,3 @@
-# ds_2002-directory
+# ds2002-directory
+ 
+A people directory for DS2002
