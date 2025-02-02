@@ -1,0 +1,13 @@
+name: Docker Merge
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  post_merge:
+    if: github.event.pull_request.merged
+    runs-on: ubuntu-latest
+    steps:
+      - name: Docker Build
+        run: docker run ghcr.io/austin-t-rivera/ds2002-directory:v3
