@@ -6,7 +6,7 @@ set -evx
 rm -Rf ds2002-directory/
 
 # pull in the repo
-git clone https://$PAT@github.com/uvasds-systems/ds2002-directory
+git clone https://$PAT@github.com/austin-t-rivera/ds2002-directory
 cd ds2002-directory/people/
 
 # Blow away the README and rebuild
