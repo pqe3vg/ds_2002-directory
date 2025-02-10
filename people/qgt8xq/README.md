@@ -1,6 +1,6 @@
 # Fiona Magee
 
-<img src= "DS_2002-DIRECTORY/people/qgt8xq/fiona.jpg" align="right" style="float:right; width:200px;" />
+<img src= "fiona.jpg" align="right" style="float:right; width:200px;" />
 
 - Hometown: Aldie Virginia
 - Hobbies: Soccer, Pickleball
