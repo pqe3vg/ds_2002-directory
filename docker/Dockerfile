@@ -3,7 +3,7 @@
 set -evx
 
 # blow away any old repo copy in pod
-rm -Rf ds2002-directory/
+rm -Rf ds_2002-directory/
 
 # pull in the repo
 git clone https://$PAT@github.com/austin-t-rivera/ds_2002-directory
@@ -17,7 +17,7 @@ COUNT=`ls -al | wc -l`
 COUNT=$((COUNT - 4))
 
 # readme boilerplate
-echo "# ds2002-directory" > README.md
+echo "# ds_2002-directory" > README.md
 echo " " >> README.md
 echo "A people directory for DS2002 \($COUNT people\)" >> README.md
 echo " " >> README.md
