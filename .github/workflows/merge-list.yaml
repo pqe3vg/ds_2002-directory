@@ -1,8 +1,10 @@
 name: Update Directory on Merge
 
 on:
-  # This workflow is triggered when a pull request is closed.
-  pull_request:
+  # This workflow is triggered by pull requests to the main branch
+  # from a forked repository. It runs in the context of the base
+  # repository, which grants it the necessary permissions.
+  pull_request_target:
     types: [closed]
 
 jobs:
@@ -11,11 +13,6 @@ jobs:
     if: github.event.pull_request.merged
     runs-on: ubuntu-latest
     
-    # CRITICAL: This grants the workflow write access to the repository contents.
-    # It allows the `git push` command to work.
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout Repository
         # The 'actions/checkout' action gets the repository's code.
