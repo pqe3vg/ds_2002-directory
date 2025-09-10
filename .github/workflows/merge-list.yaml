@@ -13,9 +13,14 @@ jobs:
     if: github.event.pull_request.merged
     runs-on: ubuntu-latest
     
+    # CRITICAL: This is required to grant the `GITHUB_TOKEN` write permissions
+    # for this specific job, allowing the `git push` command to succeed.
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Repository
-        # CRITICAL FIX: The `pull_request_target` event only grants write permissions
+        # The `pull_request_target` event only grants write permissions
         # to the base branch. By explicitly checking out the base branch,
         # we ensure the workflow has the correct permissions to push changes.
         uses: actions/checkout@v3
