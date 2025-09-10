@@ -1,0 +1,81 @@
+name: Update Directory on Merge
+
+# This workflow runs in the context of the base repository (your repository),
+# which gives it the permissions needed to push changes.
+on:
+  pull_request_target:
+    types: [closed]
+
+jobs:
+  update_directory:
+    # This job only runs if the pull request was merged.
+    if: github.event.pull_request.merged
+    runs-on: ubuntu-latest
+    
+    # This is the most critical part. It grants the GITHUB_TOKEN write
+    # permissions for this specific job, allowing it to commit and push changes.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        # We use a specific version of the checkout action for reliability.
+        # It's also crucial to check out the base branch (your main branch)
+        # to ensure the workflow has the correct permissions.
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+
+      - name: Rebuild README.md from People Directory
+        # This is the full script to rebuild the README.md file.
+        run: |
+          set -evx
+          
+          # Navigate into the people directory
+          cd people/
+          
+          # Create a temporary file to build the new README.md content
+          TEMP_README_PATH=$(mktemp)
+          
+          # Get the total count of people (directories)
+          # We use a find command to count only directories, excluding the parent directory and the hidden .gitkeep file
+          COUNT=$(find . -mindepth 1 -type d | wc -l)
+          
+          # Add the boilerplate header to the temporary file
+          echo "# ds_2002-directory" > "$TEMP_README_PATH"
+          echo "" >> "$TEMP_README_PATH"
+          echo "A people directory for DS2002 ($COUNT people)" >> "$TEMP_README_PATH"
+          echo "" >> "$TEMP_README_PATH"
+          
+          # Loop through each directory in the people folder
+          for dir in */; do
+              # Ensure it's a valid directory before processing
+              if [ -d "$dir" ]; then
+                  # Get the name from the first line of the inner README.md
+                  NAME=$(head -1 "$dir/README.md" | sed -e 's/# //g')
+                  plaindir=${dir%/}
+                  echo "- **$plaindir** - [$NAME](people/$dir)" >> "$TEMP_README_PATH"
+              fi
+          done
+          
+          # Overwrite the main README.md with the content from the temporary file
+          mv "$TEMP_README_PATH" ../README.md
+
+      - name: Commit and Push Changes
+        # This block commits the updated README.md and pushes it back to the repository.
+        run: |
+          # Use the GITHUB_TOKEN to authenticate the git commands.
+          # This token is automatically provided by GitHub Actions and has write permissions.
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          
+          # Check for changes and commit only if there are changes
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit. Exiting."
+            exit 0
+          else
+            echo "Changes found. Committing and pushing."
+            git add README.md
+            git commit -m "Updated directory via merge"
+            git push
+          fi
