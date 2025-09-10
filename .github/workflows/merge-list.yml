@@ -15,9 +15,12 @@ jobs:
     
     steps:
       - name: Checkout Repository
-        # The 'actions/checkout' action gets the repository's code.
-        # This is a critical step, as it provides the files for the script to use.
+        # CRITICAL FIX: The `pull_request_target` event only grants write permissions
+        # to the base branch. By explicitly checking out the base branch,
+        # we ensure the workflow has the correct permissions to push changes.
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
 
       - name: Rebuild README.md
         # This step uses a multi-line shell script to run the logic directly
