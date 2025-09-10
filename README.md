@@ -2,5 +2,5 @@
 
 A people directory for DS2002 (2 people)
 
-- **atr8ec** - [](people/atr8ec/)
-- **rkoester** - [Ryan Koester](people/rkoester/)
+- **atr8ec** - [Austin Rivera](people/atr8ec/)
+- **rkoester** - [Usopp](people/rkoester/)
