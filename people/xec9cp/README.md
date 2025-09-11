@@ -1,6 +1,6 @@
 # Wenwan Xu
 
-![Path to an image]("C:\Program Files\InfinityNikkiGlobal Launcher\InfinityNikkiGlobal\X6Game\Saved\GamePlayPhotos\600177594\NikkiPhotos_HighQuality\2025_07_12_10_08_32_4012506.jpeg")
+![Path to an image](https://wallpaperaccess.com/full/42614.jpg)
 
 - Hometown: Wenzhou, China; Moved to New York, NY in 9th grade 
 - Hobbies: Music (I am on the flute ensemble), crouchet/knit, Studio Ghibli movies, and video games (currently Market Simulator and Infinity Nikki)
