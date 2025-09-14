@@ -1,10 +1,6 @@
-# ds_2002-directory
+# Nithyasri Gopal
 
-A people directory for DS2002 (6 people)
-
-- **atr8ec** - [Austin Rivera](people/atr8ec/)
-- **ebz4sn** - [Your Name](people/ebz4sn/)
-- **kmj5gf** - [Isaac Yoo](people/kmj5gf/)
-- **mme3ar** - [Yuezhang Chen](people/mme3ar/)
-- **rkoester** - [Usopp](people/rkoester/)
-- **umk5st** - [Sammy Shin](people/umk5st/)
+Hometown: Midlothian, VA
+Hobbies: Listening to music, going to concerts, hanging out with friends, watching TV & movies!
+First computer I ever touched: Toshiba
+My GitHub profile: https://github.com/nithyasg05/nithyasg05/blob/main/README.md
