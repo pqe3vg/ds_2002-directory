@@ -1,9 +1,10 @@
 
 # Sahana Krishnaraj
 
-![C:\Users\sends\Downloads\IMG_8705 (2).JPG](myphoto.jpg)
+![Sahana Photo](https://media.licdn.com/dms/image/v2/D4E03AQHLt4vNQ6hHVw/profile-displayphoto-shrink_200_200/B4EZa2tDxaHYAo-/0/1746821988104?e=2147483647&v=beta&t=T8rZpcRMFaAJJLPJEuSa23O2AGxThdNEbrVSnBPUtZA)
 
 - Hometown: Aldie, VA
 - Hobbies: Going to film festivals and concerts, Thrifting, Traveling
 - First Computer I Ever Touched: Green LeapFrog Laptop
-- My GitHub Profile: https://github.com/sahana-krishnaraj/sahana-krishnaraj
+- My Github Profile: https://github.com/sahana-krishnaraj
+
