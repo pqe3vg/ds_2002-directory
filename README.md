@@ -1,6 +1,6 @@
 # ds_2002-directory
 
-A people directory for DS2002 (37 people)
+A people directory for DS2002 (38 people)
 
 - **apy8af** - [Cooper Carlson](people/apy8af/)
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
@@ -39,3 +39,4 @@ A people directory for DS2002 (37 people)
 - **ysu7sj** - [Austin Blackburn](people/ysu7sj/)
 - **zbh3un** - [Victoria Jurdi Markakis](people/zbh3un/)
 - **zjq6eh** - [](people/zjq6eh/)
+- **zry3fr** - [Zilan Saadi](people/zry3fr/)
