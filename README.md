@@ -1,6 +1,6 @@
 # ds_2002-directory
 
-A people directory for DS2002 (26 people)
+A people directory for DS2002 (28 people)
 
 - **apy8af** - [Cooper Carlson](people/apy8af/)
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
@@ -23,8 +23,10 @@ A people directory for DS2002 (26 people)
 - **tsd5gt** - [Nithyasri Gopal](people/tsd5gt/)
 - **umk5st** - [Sammy Shin](people/umk5st/)
 - **uth7hq** - [Mercy Soly](people/uth7hq/)
+- **vas7ne** - [Dami Ayandipo](people/vas7ne/)
 - **vjt8nu** - [Laura Segura](people/vjt8nu/)
 - **wzw9pn** - [](people/wzw9pn/)
 - **xta7yq** - [Pranav Vaddepalli](people/xta7yq/)
 - **ysu7sj** - [Austin Blackburn](people/ysu7sj/)
 - **zbh3un** - [Victoria Jurdi Markakis](people/zbh3un/)
+- **zjq6eh** - [](people/zjq6eh/)
