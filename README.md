@@ -1,10 +1,12 @@
 # ds_2002-directory
 
-A people directory for DS2002 (15 people)
+A people directory for DS2002 (17 people)
 
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
+- **awr8xd** - [Natalie Ladocsi](people/awr8xd/)
 - **dkt4kr** - [Lexie Chen](people/dkt4kr/)
 - **ebz4sn** - [Your Name](people/ebz4sn/)
+- **hbv6pz** - [Zixing Yu (Iris)](people/hbv6pz/)
 - **hwk8jq** - [Araceli Soto](people/hwk8jq/)
 - **jmc3kn** - [Brishti Chakraborty](people/jmc3kn/)
 - **kmj5gf** - [Isaac Yoo](people/kmj5gf/)
