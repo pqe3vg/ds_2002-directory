@@ -1,6 +1,6 @@
 # ds_2002-directory
 
-A people directory for DS2002 (34 people)
+A people directory for DS2002 (35 people)
 
 - **apy8af** - [Cooper Carlson](people/apy8af/)
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
@@ -23,6 +23,7 @@ A people directory for DS2002 (34 people)
 - **ran3ds** - [Marin Marcillac](people/ran3ds/)
 - **rem4eb** - [Shravya Etta](people/rem4eb/)
 - **rkoester** - [Usopp](people/rkoester/)
+- **skj9vk** - [Samuel Park](people/skj9vk/)
 - **tsd5gt** - [Nithyasri Gopal](people/tsd5gt/)
 - **udz4mu** - [Heidi Williams ](people/udz4mu/)
 - **umk5st** - [Sammy Shin](people/umk5st/)
