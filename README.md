@@ -1,6 +1,6 @@
 # ds_2002-directory
 
-A people directory for DS2002 (31 people)
+A people directory for DS2002 (32 people)
 
 - **apy8af** - [Cooper Carlson](people/apy8af/)
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
@@ -29,6 +29,7 @@ A people directory for DS2002 (31 people)
 - **vjt8nu** - [Laura Segura](people/vjt8nu/)
 - **wqa8hw** - [Dylan Beyerlein](people/wqa8hw/)
 - **wzw9pn** - [](people/wzw9pn/)
+- **xpc9wd** - [Saad Shahzad](people/xpc9wd/)
 - **xta7yq** - [Pranav Vaddepalli](people/xta7yq/)
 - **ysu7sj** - [Austin Blackburn](people/ysu7sj/)
 - **zbh3un** - [Victoria Jurdi Markakis](people/zbh3un/)
