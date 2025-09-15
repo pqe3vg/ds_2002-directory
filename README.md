@@ -1,13 +1,13 @@
 # ds_2002-directory
 
-A people directory for DS2002 (35 people)
+A people directory for DS2002 (36 people)
 
 - **apy8af** - [Cooper Carlson](people/apy8af/)
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
 - **awr8xd** - [Natalie Ladocsi](people/awr8xd/)
 - **bux8fj** - [Sanika Rewatkar](people/bux8fj/)
 - **dkt4kr** - [Lexie Chen](people/dkt4kr/)
-- **ebz4sn** - [Your Name](people/ebz4sn/)
+- **ebz4sn** - [Shreeja Tangutur](people/ebz4sn/)
 - **fwv8hb** - [Morgan Phelps](people/fwv8hb/)
 - **gbp4bh** - [Emma Ellsworth](people/gbp4bh/)
 - **hbv6pz** - [Zixing Yu (Iris)](people/hbv6pz/)
@@ -32,6 +32,7 @@ A people directory for DS2002 (35 people)
 - **vjt8nu** - [Laura Segura](people/vjt8nu/)
 - **wqa8hw** - [Dylan Beyerlein](people/wqa8hw/)
 - **wzw9pn** - [](people/wzw9pn/)
+- **xec9cp** - [Wenwan Xu](people/xec9cp/)
 - **xpc9wd** - [Saad Shahzad](people/xpc9wd/)
 - **xta7yq** - [Pranav Vaddepalli](people/xta7yq/)
 - **ysu7sj** - [Austin Blackburn](people/ysu7sj/)
