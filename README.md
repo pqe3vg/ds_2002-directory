@@ -1,12 +1,13 @@
 # ds_2002-directory
 
-A people directory for DS2002 (36 people)
+A people directory for DS2002 (37 people)
 
 - **apy8af** - [Cooper Carlson](people/apy8af/)
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
 - **awr8xd** - [Natalie Ladocsi](people/awr8xd/)
 - **bux8fj** - [Sanika Rewatkar](people/bux8fj/)
 - **dkt4kr** - [Lexie Chen](people/dkt4kr/)
+- **eav6vg** - [Shreyas Mayya](people/eav6vg/)
 - **ebz4sn** - [Shreeja Tangutur](people/ebz4sn/)
 - **fwv8hb** - [Morgan Phelps](people/fwv8hb/)
 - **gbp4bh** - [Emma Ellsworth](people/gbp4bh/)
