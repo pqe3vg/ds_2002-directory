@@ -1,9 +1,10 @@
 # ds_2002-directory
 
-A people directory for DS2002 (21 people)
+A people directory for DS2002 (22 people)
 
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
 - **awr8xd** - [Natalie Ladocsi](people/awr8xd/)
+- **bux8fj** - [Sanika Rewatkar](people/bux8fj/)
 - **dkt4kr** - [Lexie Chen](people/dkt4kr/)
 - **ebz4sn** - [Your Name](people/ebz4sn/)
 - **gbp4bh** - [Emma Ellsworth](people/gbp4bh/)
