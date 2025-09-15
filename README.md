@@ -1,7 +1,8 @@
 # ds_2002-directory
 
-A people directory for DS2002 (22 people)
+A people directory for DS2002 (24 people)
 
+- **apy8af** - [Cooper Carlson](people/apy8af/)
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
 - **awr8xd** - [Natalie Ladocsi](people/awr8xd/)
 - **bux8fj** - [Sanika Rewatkar](people/bux8fj/)
@@ -23,4 +24,5 @@ A people directory for DS2002 (22 people)
 - **uth7hq** - [Mercy Soly](people/uth7hq/)
 - **vjt8nu** - [Laura Segura](people/vjt8nu/)
 - **wzw9pn** - [](people/wzw9pn/)
+- **xta7yq** - [Pranav Vaddepalli](people/xta7yq/)
 - **ysu7sj** - [Austin Blackburn](people/ysu7sj/)
