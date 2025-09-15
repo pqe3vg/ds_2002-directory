@@ -1,6 +1,6 @@
 # ds_2002-directory
 
-A people directory for DS2002 (20 people)
+A people directory for DS2002 (21 people)
 
 - **atr8ec** - [Austin Rivera](people/atr8ec/)
 - **awr8xd** - [Natalie Ladocsi](people/awr8xd/)
@@ -20,5 +20,6 @@ A people directory for DS2002 (20 people)
 - **tsd5gt** - [Nithyasri Gopal](people/tsd5gt/)
 - **umk5st** - [Sammy Shin](people/umk5st/)
 - **uth7hq** - [Mercy Soly](people/uth7hq/)
+- **vjt8nu** - [Laura Segura](people/vjt8nu/)
 - **wzw9pn** - [](people/wzw9pn/)
 - **ysu7sj** - [Austin Blackburn](people/ysu7sj/)
